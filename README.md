@@ -1,16 +1,15 @@
-## Hi there 👋
+## ?
 
-<!--
-**SimJaemoon/SimJaemoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 기술
+__＃기획__ :</b> 데이터수집(Eye-Traking), 데이터분석(SPSS, R, Python)  
 
-Here are some ideas to get you started:
+__＃디자인__ :</b> Figma, Photoshop, Illustrator  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__＃개발__  
+* __언어 :__ HTML, CSS, JavaScript, TypeScript
+* __프레임워크 :__ React, Next.js, TailwindCSS
+
+<br/>
+<br/>
+
+__◎ Email :__ limun1324@gmail.com
