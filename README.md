@@ -22,6 +22,9 @@ __1.__ Sim, J., & Ji, Y. G. (2023). Investigating the Impact of Mounted Mobile P
 __2.__ Sim, J., Yim, Y., & Kim, K. (2021). A review of the stylus system to enhance usability through sensory feedback. South African Journal of Industrial Engineering, 32(1), 71-85. [SCIE]  
 
 __3.__ Sim, J., Yim, Y., & Kim, K. (2019). Development and evaluation of the HaptiWatch with a smart notification system. Human Factors and Ergonomics in Manufacturing & Service Industries, 29(6), 504-516. [SCIE]  
+
+__4.__ 심재문, 김민종, 김귀영, 이장선, 지용구. (2020). 차량 내 인포테인먼트 환경에서 감성 기반 모션 그래픽스 설계 방향 도출. 대한인간공학회지, 39(5), 383-395, 10.5143/JESK.2020.39.5.383 [KCI]  
+
 <br/>
 <br/>
 
