@@ -14,6 +14,8 @@ __＃ 디자인 :__ Figma, Photoshop, Illustrator
 __＃ 개발__  
 * __언어 :__ HTML, CSS, JavaScript, TypeScript
 * __프레임워크 :__ React, Next.js, TailwindCSS
+* __Tool :__ ESLint & Prettier, Husky & Lint-staged, Storybook, Vercel Postgres SDK(SQL), SWR
+  
 <br/>
 
 ## 논문
