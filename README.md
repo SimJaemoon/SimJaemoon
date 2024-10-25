@@ -1,7 +1,7 @@
 ## 개발 경험
 __1.__ X세대 온라인 식료품 구매 거부감을 해소하기 위한, 새로운 온라인 장보기 경험 설계 [1인 프로젝트, 2024.04 ~]  <a href="https://github.com/simJaemoon/food-search/" target="_blank"> - 보러 가기 ↗</a>  
 <br/>
-<a href="https://github.com/SimJaemoon/SimJaemoon/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%8B%AC%EC%9E%AC%EB%AC%B8.pdf" target="_blank">포트폴리오 보러 가기 ↗</a>
+<a href="https://simjaemoon.github.io" target="_blank">포트폴리오 보러 가기 ↗</a>
 <br/>
 <br/>
 <br/>
