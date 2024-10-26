@@ -1,5 +1,5 @@
 ## 개발 경험
-__1.__ Portfolio 반응형 웹사이트 [1인 프로젝트, 2024.10]  <a href="https://simjaemoon.github.io" target="_blank"> - 보러 가기 ↗</a> 
+__1.__ Portfolio 반응형 웹사이트 [1인 프로젝트, 2024.10]  <a href="https://github.com/SimJaemoon/SimJaemoon.github.io" target="_blank"> - 보러 가기 ↗</a> 
 
 __2.__ 대형마트 웹/앱 개선 방향 제안 [1인 프로젝트, 2024.04 ~ 09]  <a href="https://github.com/simJaemoon/food-search/" target="_blank"> - 보러 가기 ↗</a>  
 
