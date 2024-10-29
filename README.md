@@ -4,10 +4,6 @@ __1.__ Portfolio 반응형 웹사이트 [1인 프로젝트, 2024.10]  <a href="h
 __2.__ 대형마트 웹/앱 개선 방향 제안 [1인 프로젝트, 2024.04 ~ 09]  <a href="https://github.com/simJaemoon/food-search/" target="_blank"> - 보러 가기 ↗</a>  
 
 <br/>
-<a href="https://simjaemoon.github.io" target="_blank">포트폴리오 보러 가기 ↗</a>
-<br/>
-<br/>
-<br/>
 
 ## 기술
 __＃ 기획 :__ 데이터수집(Eye-Traking), 데이터분석(SPSS, R, Python)  
