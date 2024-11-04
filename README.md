@@ -1,5 +1,5 @@
 ## 개발 경험
-__1.__ <a href="https://github.com/SimJaemoon/usability-analysis-dashboard" target="_blank">사용성 통계 분석 대시보드 [1인 프로젝트, 2024.10 ~ ]</a> 
+__1.__ (작업 중) <a href="https://github.com/SimJaemoon/usability-analysis-dashboard" target="_blank">사용성 통계 분석 대시보드 [1인 프로젝트, 2024.10 ~ ]</a> 
 
 __2.__ <a href="https://github.com/SimJaemoon/SimJaemoon.github.io" target="_blank">Portfolio 반응형 웹사이트 [1인 프로젝트, 2024.10]</a> 
 
